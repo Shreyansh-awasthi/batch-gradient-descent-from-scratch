@@ -1,0 +1,1 @@
+# batch-gradient-descent-from-scratch
