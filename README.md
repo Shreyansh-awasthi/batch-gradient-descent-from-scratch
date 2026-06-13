@@ -1,7 +1,7 @@
 # batch-gradient-descent-from-scratch
 # 📉 Gradient Descent from Scratch
 
-> Understanding what happens **inside** Linear Regression — from sklearn's black box to building it with pure NumPy.
+> Understanding what happens **inside** Linear Regression — from sklearn's black box to building it with pure Numpy.
 
 ---
 
