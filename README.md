@@ -8,7 +8,7 @@
 
 Most ML tutorials just call `model.fit()` and move on.
 
-This project takes a different approach — it implements the **same goal** (predicting with linear regression) in three progressively deeper ways, so you can truly understand what gradient descent is doing under the hood.
+This project takes a different approach — it implements the **same goal** (predicting with linear regression) in three progressively deeper ways, so you can truly understand what gradient descent is doing under the hood..
 
 ---
 
